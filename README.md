@@ -14,5 +14,5 @@ Desarrollador de software en tecnologias Microsoft con mas de 15 años de experi
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DPALOMINO&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📧 Contáctame:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil-linkedin/](https://www.linkedin.com/in/dilmer-palomino-40b44120/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilmer-palomino-40b44120/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilmer.palomino.pardo@gmail.com)
