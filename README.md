@@ -8,7 +8,7 @@ Aquí solo listamos los logros más impactantes y relevantes de tu carrera. Para
 
 | Puesto | Compañía | Logro más Relevante (¡Usa Cifras!) | Fechas |
 | :--- | :--- | :--- | :--- |
-| **[Analista Backend Senior]** | [ONPE • Oficina Nacional de Procesos Electorales] | •	Elabore estrategias de migración de base de datos Oracle 12c a Postgres 17 usando Pentaho. | [2024- Actualidad] |
+| **Analista Backend Senior** | ONPE • Oficina Nacional de Procesos Electorales | •	Elabore estrategias de migración de base de datos Oracle 12c a Postgres 17 usando Pentaho. | 2024- Actualidad |
 | **[Título del Puesto 2]** | [Nombre de la Empresa 2] | Desarrollé un panel de monitoreo en tiempo real que **mejoró la detección de errores en un 45%**. | [Fecha Inicio - Fecha Fin] |
 | **[Título del Puesto 3]** | [Nombre de la Empresa 3] | [Describe otro logro cuantificable] | [Fecha Inicio - Fecha Fin] |
 
