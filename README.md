@@ -1,11 +1,5 @@
 # ¡Hola! Soy Dilmer Palomino 👋
 Desarrollador Senior con más de 15 años de experiencia en el diseño, desarrollo y despliegue de soluciones empresariales, destacando en sectores como Banca, Seguros, Retail e industrial. Experto en el stack .NET Core, C#, VB Net y desarrollo de REST APIs, con un sólido dominio de bases de datos relacionales (SQL Server, Oracle, PostgreSQL). Fuerte enfoque en el diseño de sistemas, aplicando Principios SOLID y patrones arquitectónicos como Clean Architecture, MVVM y MVC. Poseo experiencia práctica en ambientes Cloud Azure (App Services, Azure SQL Database, Data Factory, Key Vault). Competente en metodologías Ágiles (Scrum) e integración/entrega continua (CI/CD) usando Azure DevOps y Bamboo. Busco un rol desafiante que requiera liderazgo técnico y la entrega de soluciones escalables.
-### Desarrollador [Tu Rol Principal: Ej. Full Stack | Ingeniero de Datos | Arquitecto Cloud]
-
-Soy un profesional apasionado por **[Tu Nicho/Especialidad, Ej: la creación de soluciones escalables en la nube AWS]** y la aplicación de metodologías ágiles para transformar la experiencia del usuario. Mi enfoque es en **[Tu principal contribución, Ej: optimizar el rendimiento y garantizar la calidad del código]**.
-
-> 💡 **Mi Misión:** Resolver problemas de negocio complejos utilizando tecnología [Menciona 1-2 tecnologías clave, Ej: Python y React].
-
 ---
 
 ## 1. 💼 Experiencia Clave (Experience)
@@ -14,7 +8,7 @@ Aquí solo listamos los logros más impactantes y relevantes de tu carrera. Para
 
 | Puesto | Compañía | Logro más Relevante (¡Usa Cifras!) | Fechas |
 | :--- | :--- | :--- | :--- |
-| **[Título del Puesto 1]** | [Nombre de la Empresa 1] | Lideré la migración del sistema a microservicios, **reduciendo la latencia de las transacciones clave en un 30%**. | [Fecha Inicio - Fecha Fin] |
+| **[Analista Backend Senior]** | [ONPE • Oficina Nacional de Procesos Electorales] | •	Elabore estrategias de migración de base de datos Oracle 12c a Postgres 17 usando Pentaho. | [2024- Actualidad] |
 | **[Título del Puesto 2]** | [Nombre de la Empresa 2] | Desarrollé un panel de monitoreo en tiempo real que **mejoró la detección de errores en un 45%**. | [Fecha Inicio - Fecha Fin] |
 | **[Título del Puesto 3]** | [Nombre de la Empresa 3] | [Describe otro logro cuantificable] | [Fecha Inicio - Fecha Fin] |
 
