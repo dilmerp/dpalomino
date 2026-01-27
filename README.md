@@ -60,14 +60,15 @@ Cada proyecto es un **Estudio de Caso** de mi experiencia. Haz clic para ver el 
 
 ---
 
-## 4. 📞 Contacto
+## 4. 📞 +51 942620741
 
 Conectemos y hablemos de tecnología. ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones!
 
 | Plataforma | Enlace |
-| :--- | :--- |
-| **📧 Email** | [dilmer.palomino.pardo@gmail.com] |
-| **🔗 LinkedIn** | [[https://www.linkedin.com/in/dilmer-palomino-40b44120/] |
+
+ **📧 Email**  dilmer.palomino.pardo@gmail.com
+ 
+ **🔗 LinkedIn**  https://www.linkedin.com/in/dilmer-palomino-40b44120/
 
 
 ---
