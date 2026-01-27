@@ -1,5 +1,10 @@
 # ¡Hola! Soy Dilmer Palomino 👋
-Desarrollador Senior con más de 15 años de experiencia en el diseño, desarrollo y despliegue de soluciones empresariales, destacando en sectores como Banca, Seguros, Retail e industrial. Experto en el stack .NET Core, C#, VB Net y desarrollo de REST APIs, con un sólido dominio de bases de datos relacionales (SQL Server, Oracle, PostgreSQL). Fuerte enfoque en el diseño de sistemas, aplicando Principios SOLID y patrones arquitectónicos como Clean Architecture, MVVM y MVC. Poseo experiencia práctica en ambientes Cloud Azure (App Services, Azure SQL Database, Data Factory, Key Vault). Competente en metodologías Ágiles (Scrum) e integración/entrega continua (CI/CD) usando Azure DevOps y Bamboo. Busco un rol desafiante que requiera liderazgo técnico y la entrega de soluciones escalables.
+Desarrollador Full Stack Senior con más de 15 años de experiencia en el diseño, desarrollo y mantenimiento y despliegue de soluciones empresariales de alto impacto. Amplia trayectoria trabajando con el ecosistema Microsoft.Net incluyendo .NET Core, API Rest, autenticación moderna y patrones de arquitectura modular (MVVM, MVC, Clean Architecture) aplicando los principios SOLID. Dominio de SQL Server, Oracle, Postgres,Informix y herramientas de integración.
+Experiencia en desarrollo FrontEnd con Angular (v11+), TypeScript, HTML5, CSS3, Bootstrap, Angular Material, SignalR, JavaScript moderno, creando interfaces responsive, escalables y orientadas a rendimiento. Experiencia solida en integraciones complejas,pasarelas de pago, automatización de tareas mediante multiples herramientas y frameworks.
+He participado en proyectos de gran escala para empresas como Interbank, Banco Falabella, BCP, Seguros La Positiva, ONPE y EDP (Empresa proveedora de suministro electrico-España) destacando en optimizar arquitecturas existentes, resolución de
+incidencias de manera eficiente.
+Poseo conocimientos complementarios de Azure (App Services, Azure SQL Database, Data Factory, Key Vault) y herramientas DevOps (Azure DevOps) y Bamboo, con enfoque en buenas practicas y calidad de software.
+Familiarizado en trabajar en equipo aplicando frameworks de metodologias agiles como Scrum, Kanban.
 ---
 
 ## 1. 💼 Experiencia Clave (Experience)
@@ -9,8 +14,7 @@ Aquí solo listamos los logros más impactantes y relevantes de tu carrera. Para
 | Puesto | Compañía | Logro más Relevante (¡Usa Cifras!) | Fechas |
 | :--- | :--- | :--- | :--- |
 | **Analista Backend Senior** | ONPE • Oficina Nacional de Procesos Electorales | •	Elabore estrategias de migración de base de datos Oracle 12c a Postgres 17 usando Pentaho. | 2024- Actualidad |
-| **[Título del Puesto 2]** | [Nombre de la Empresa 2] | Desarrollé un panel de monitoreo en tiempo real que **mejoró la detección de errores en un 45%**. | [Fecha Inicio - Fecha Fin] |
-| **[Título del Puesto 3]** | [Nombre de la Empresa 3] | [Describe otro logro cuantificable] | [Fecha Inicio - Fecha Fin] |
+
 
 ---
 
