@@ -1,10 +1,13 @@
-# ¡Hola! Soy Dilmer Palomino 👋
-Desarrollador Full Stack Senior con más de 15 años de experiencia en el diseño, desarrollo y mantenimiento y despliegue de soluciones empresariales de alto impacto. Amplia trayectoria trabajando con el ecosistema Microsoft.Net incluyendo .NET Core, API Rest, autenticación moderna y patrones de arquitectura modular (MVVM, MVC, Clean Architecture) aplicando los principios SOLID. Dominio de SQL Server, Oracle, Postgres,Informix y herramientas de integración.
-Experiencia en desarrollo FrontEnd con Angular (v11+), TypeScript, HTML5, CSS3, Bootstrap, Angular Material, SignalR, JavaScript moderno, creando interfaces responsive, escalables y orientadas a rendimiento. Experiencia solida en integraciones complejas,pasarelas de pago, automatización de tareas mediante multiples herramientas y frameworks.
-He participado en proyectos de gran escala para empresas como Interbank, Banco Falabella, BCP, Seguros La Positiva, ONPE y EDP (Empresa proveedora de suministro electrico-España) destacando en optimizar arquitecturas existentes, resolución de
-incidencias de manera eficiente.
+# Dilmer Palomino Pardo
+<div style="font-size:14px"; align="justify">
+Desarrollador Full Stack Senior con más de 15 años de experiencia en el diseño, desarrollo y mantenimiento y despliegue de soluciones empresariales de alto impacto. Amplia trayectoria trabajando con el ecosistema Microsoft.Net, .NET Core, API Rest, autenticación moderna y patrones de arquitectura modular (MVVM, MVC, Clean Architecture) aplicando los principios SOLID. Dominio de SQL Server, Oracle, Postgres,Informix y herramientas de integración.
+Experiencia en desarrollo FrontEnd con Angular (v11+), TypeScript, HTML5, CSS3, Bootstrap, Angular Material, SignalR, JavaScript moderno, creando interfaces responsive, escalables y orientadas a rendimiento. Experiencia solida en integraciones complejas,pasarelas de pago, automatización de tareas mediante multiples herramientas y frameworks.  
+
+  He participado en proyectos de gran escala para empresas como Interbank, Banco Falabella, BCP, Seguros La Positiva, ONPE y EDP (Empresa proveedora de suministro electrico-España) destacando en optimizar arquitecturas existentes, resolución de incidencias de manera eficiente.
 Poseo conocimientos complementarios de Azure (App Services, Azure SQL Database, Data Factory, Key Vault) y herramientas DevOps (Azure DevOps) y Bamboo, con enfoque en buenas practicas y calidad de software.
 Familiarizado en trabajar en equipo aplicando frameworks de metodologias agiles como Scrum, Kanban.
+</div>
+
 ---
 
 ## 1. 💼 Experiencia Clave (Experience)
