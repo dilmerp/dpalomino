@@ -12,7 +12,7 @@ Familiarizado en trabajar en equipo aplicando frameworks de metodologias agiles 
 
 ## 1. 💼 Experiencia Clave (Experience)
 
-Aquí solo listamos los logros más impactantes y relevantes de tu carrera. Para el detalle técnico de cada proyecto, visita la sección **Projects**.
+Logros - visita la sección **Projects**.
 
 | Puesto | Compañía | Logro más Relevante (¡Usa Cifras!) | Fechas |
 | :--- | :--- | :--- | :--- |
