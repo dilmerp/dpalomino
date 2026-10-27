@@ -23,8 +23,6 @@ Logros - visita la sección **Projects**.
 
 ## 2. 🛠️ Skills (Habilidades y Stack Tecnológico)
 
-Las insignias (*badges*) son ideales para esta sección. Demuestran tu dominio de forma concisa y visual.
-
 ### Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
